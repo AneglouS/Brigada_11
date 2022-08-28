@@ -6,5 +6,8 @@ main{
   
 /*Fin de Sección de variables*/
 
+ VersionDos
   /*Fin del codigo*/
+=======
+ VersionDos
 }
